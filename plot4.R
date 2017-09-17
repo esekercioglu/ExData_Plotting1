@@ -1,5 +1,5 @@
 #Exploratory Data Analysis Week 1
-#Plot 3 For Course Project 1
+#Plot 4 For Course Project 1
 #For this code to work household_power_consumption.txt must be placed
 #in the working directory for your session
 
